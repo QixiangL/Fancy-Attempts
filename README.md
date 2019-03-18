@@ -1,5 +1,11 @@
 EMOJI CHEAT SHEET
 
+
+Forked by Qixiang Luo
+
+
+
+
 Emoji emoticons listed on this page are supported on Campfire, GitHub, Basecamp, Redbooth, Trac, Flowdock, Sprint.ly, Kandan, Textbox.io, Kippt, Redmine, JabbR, Trello, Hall, plug.dj, Qiita, Zendesk, Ruby China, Grove, Idobata, NodeBB Forums, Slack, Streamup, OrganisedMinds, Hackpad, Cryptbin, Kato, Reportedly, Cheerful Ghost, IRCCloud, Dashcube, MyVideoGameList, Subrosa, Sococo, Quip, And Bang, Bonusly, Discourse, Ello, and Twemoji Awesome.
 However some of the emoji codes are not super easy to remember, so here is a little cheat sheet.
 ✈ Got flash enabled? Click the emoji code and it will be copied to your clipboard.
