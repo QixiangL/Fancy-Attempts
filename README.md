@@ -12,7 +12,7 @@ However some of the emoji codes are not super easy to remember, so here is a lit
 
 People
 
-:bowtie:
+1:bowtie:
 :smile:
 :laughing:
 :blush:
